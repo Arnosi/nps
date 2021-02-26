@@ -1,0 +1,35 @@
+.container {
+  width: 800px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.values {
+  padding: 10px;
+  margin: 5px;
+  
+  background: #5d8aa8;
+  color: #fff;
+
+  border-radius: 6px;
+  width: 15px;
+  
+  text-align: center;
+  text-decoration: none;
+}
+
+.level {
+  display: flex;
+  margin: 10px;
+  justify-content: space-between;
+  width: 350px;
+}
+
+.answers {
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+}

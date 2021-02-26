@@ -1,0 +1,6 @@
+node_modules
+src/database/database.slite
+src/database/database.test.slite
+.vscode
+.env
+tsconfig.json
